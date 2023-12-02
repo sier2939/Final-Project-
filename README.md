@@ -2,7 +2,7 @@
 A python program that finds what the best word to play in Wordle is and what word the user should play next.
 Essentially the program does this by narrowing down to the best choices you have based on the first guest the user makes. 
 
-How Wordle works:
+How Wordle works: players have 6 turns to guess a five letter word with hints if they succefully guess one of the words. For example, if a word is in the final word and is in the correct position it turns green, if its there but not in the right position its yellow, and if its not there at all its grey. This information assists my program in finding the best words to choose from.
 
 Report
 
